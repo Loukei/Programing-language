@@ -1,3 +1,6 @@
 [submodule "CPP-notes"]
 	path = CPP-notes
 	url = https://github.com/Loukei/CPP-notes.git
+[submodule "Python-notes"]
+	path = Python-notes
+	url = https://github.com/Loukei/Python-notes.git
