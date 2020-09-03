@@ -1,0 +1,3 @@
+[submodule "CPP-notes"]
+	path = CPP-notes
+	url = https://github.com/Loukei/CPP-notes.git
